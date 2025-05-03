@@ -24,6 +24,14 @@ Set the following environment variables before running the backend:
 ```
 GEMINI_API_URL=your_gemini_api_url
 GEMINI_API_KEY=your_gemini_api_key
+
+```
+
+## Clone Repo
+
+```
+git clone https://github.com/Chanidu26/gemini-chatbot.git
+
 ```
 
 ## 📦 Project Structure
